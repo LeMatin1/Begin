@@ -8,6 +8,17 @@ public class Bank {
     public static void main(String[] args) {
 
 
+
     }
 
 }
+
+class Person implements Runnable{
+
+
+    @Override
+    public void run() {
+
+    }
+}
+
